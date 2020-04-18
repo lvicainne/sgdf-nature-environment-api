@@ -1,0 +1,68 @@
+[
+    {
+        "situationImage": "img/game/radio/situation1.png",
+        "question": "Question 1 ?",
+        "possibleAnswers": [
+        	{
+        		"response": "Réponse A",
+        		"isCorrect": true
+        	},
+            {
+        		"response": "Réponse B",
+        		"isCorrect": false
+        	},
+        	{
+        		"response": "Réponse C",
+        		"isCorrect": false
+        	},
+            {
+                "response": "Réponse D",
+        		"isCorrect": false
+            }
+        ]
+    },
+    {
+        "situationImage": "img/game/radio/situation2.png",
+        "question": "Question 2 ?",
+        "possibleAnswers": [
+        	{
+        		"response": "Réponse A",
+        		"isCorrect": false
+        	},
+            {
+        		"response": "Réponse B",
+        		"isCorrect": true
+        	},
+        	{
+        		"response": "Réponse C",
+        		"isCorrect": false
+        	},
+            {
+                "response": "Réponse D",
+        		"isCorrect": false
+            }
+        ]
+    },
+    {
+        "situationImage": "img/game/radio/situation3.png",
+        "question": "Question 3 ?",
+        "possibleAnswers": [
+        	{
+        		"response": "Réponse A",
+        		"isCorrect": false
+        	},
+            {
+        		"response": "Réponse B",
+        		"isCorrect": false
+        	},
+        	{
+        		"response": "Réponse C",
+        		"isCorrect": true
+        	},
+            {
+                "response": "Réponse D",
+        		"isCorrect": false
+            }
+        ]
+    }
+]

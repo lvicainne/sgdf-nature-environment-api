@@ -1,0 +1,71 @@
+[
+    {
+        "situationImage": "img/game/map/situation1.png",
+        "situationRecord": "record/situation1.mp3",
+        "question": "Question 1 ?",
+        "possibleAnswers": [
+        	{
+        		"response": "Réponse A",
+        		"isCorrect": true
+        	},
+            {
+        		"response": "Réponse B",
+        		"isCorrect": false
+        	},
+        	{
+        		"response": "Réponse C",
+        		"isCorrect": false
+        	},
+            {
+                "response": "Réponse D",
+        		"isCorrect": false
+            }
+        ]
+    },
+    {
+        "situationImage": "img/game/map/situation2.png",
+        "situationRecord": "record/situation2.mp3",
+        "question": "Question 2 ?",
+        "possibleAnswers": [
+        	{
+        		"response": "Réponse A",
+        		"isCorrect": false
+        	},
+            {
+        		"response": "Réponse B",
+        		"isCorrect": true
+        	},
+        	{
+        		"response": "Réponse C",
+        		"isCorrect": false
+        	},
+            {
+                "response": "Réponse D",
+        		"isCorrect": false
+            }
+        ]
+    },
+    {
+        "situationImage": "img/game/map/situation3.png",
+        "situationRecord": "record/situation3.mp3",
+        "question": "Question 3 ?",
+        "possibleAnswers": [
+        	{
+        		"response": "Réponse A",
+        		"isCorrect": false
+        	},
+            {
+        		"response": "Réponse B",
+        		"isCorrect": false
+        	},
+        	{
+        		"response": "Réponse C",
+        		"isCorrect": true
+        	},
+            {
+                "response": "Réponse D",
+        		"isCorrect": false
+            }
+        ]
+    }
+]
