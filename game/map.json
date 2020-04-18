@@ -68,4 +68,50 @@
             }
         ]
     }
+    {
+        "situationImage": "img/game/map/situation4.png",
+        "situationRecord": "record/situation4.mp3",
+        "question": "Question 4 ?",
+        "possibleAnswers": [
+        	{
+        		"response": "Réponse A",
+        		"isCorrect": false
+        	},
+            {
+        		"response": "Réponse B",
+        		"isCorrect": false
+        	},
+        	{
+        		"response": "Réponse C",
+        		"isCorrect": false
+        	},
+            {
+                "response": "Réponse D",
+        		"isCorrect": true
+            }
+        ]
+    },
+    {
+        "situationImage": "img/game/map/situation5.png",
+        "situationRecord": "record/situation5.mp3",
+        "question": "Question 5 ?",
+        "possibleAnswers": [
+        	{
+        		"response": "Réponse A",
+        		"isCorrect": false
+        	},
+            {
+        		"response": "Réponse B",
+        		"isCorrect": false
+        	},
+        	{
+        		"response": "Réponse C",
+        		"isCorrect": true
+        	},
+            {
+                "response": "Réponse D",
+        		"isCorrect": false
+            }
+        ]
+    }
 ]
