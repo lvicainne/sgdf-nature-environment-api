@@ -1,6 +1,7 @@
 [
     {
         "situationImage": "img/game/radio/situation1.png",
+        "situationRecord": "",
         "question": "Question 1 ?",
         "possibleAnswers": [
         	{
@@ -23,6 +24,7 @@
     },
     {
         "situationImage": "img/game/radio/situation2.png",
+        "situationRecord": "",
         "question": "Question 2 ?",
         "possibleAnswers": [
         	{
@@ -45,6 +47,7 @@
     },
     {
         "situationImage": "img/game/radio/situation3.png",
+        "situationRecord": "",
         "question": "Question 3 ?",
         "possibleAnswers": [
         	{

@@ -1,7 +1,6 @@
 [
     {
         "situationImage": "img/game/map/situation1.png",
-        "situationRecord": "record/situation1.mp3",
         "question": "Question 1 ?",
         "possibleAnswers": [
         	{
@@ -24,7 +23,6 @@
     },
     {
         "situationImage": "img/game/map/situation2.png",
-        "situationRecord": "record/situation2.mp3",
         "question": "Question 2 ?",
         "possibleAnswers": [
         	{
@@ -47,7 +45,6 @@
     },
     {
         "situationImage": "img/game/map/situation3.png",
-        "situationRecord": "record/situation3.mp3",
         "question": "Question 3 ?",
         "possibleAnswers": [
         	{
@@ -69,8 +66,7 @@
         ]
     },
     {
-        "situationImage": "img/game/map/situation4.png",
-        "situationRecord": "record/situation4.mp3",
+        "situationImage": "",
         "question": "Question 4 ?",
         "possibleAnswers": [
         	{
@@ -93,7 +89,6 @@
     },
     {
         "situationImage": "img/game/map/situation5.png",
-        "situationRecord": "record/situation5.mp3",
         "question": "Question 5 ?",
         "possibleAnswers": [
         	{
