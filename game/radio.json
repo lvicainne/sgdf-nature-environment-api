@@ -1,7 +1,7 @@
 [
     {
         "situationImage": "img/game/radio/situation1.png",
-        "situationRecord": "audio/game/radio/la_caravane.mp3",
+        "situationRecord": "",
         "question": "Question 1 ?",
         "possibleAnswers": [
         	{
