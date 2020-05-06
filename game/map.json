@@ -1,8 +1,9 @@
 [
     {
         "situationImage": "img/game/map/situation1.png",
-        "situationRecord": "record/situation1.mp3",
+        "situationRecord": "",
         "question": "Question 1 ?",
+		"explication": "",
         "possibleAnswers": [
         	{
         		"response": "Réponse A",
@@ -24,8 +25,9 @@
     },
     {
         "situationImage": "img/game/map/situation2.png",
-        "situationRecord": "record/situation2.mp3",
+        "situationRecord": "",
         "question": "Question 2 ?",
+		"explication": "",
         "possibleAnswers": [
         	{
         		"response": "Réponse A",
@@ -47,8 +49,9 @@
     },
     {
         "situationImage": "img/game/map/situation3.png",
-        "situationRecord": "record/situation3.mp3",
+        "situationRecord": "",
         "question": "Question 3 ?",
+		"explication": "",
         "possibleAnswers": [
         	{
         		"response": "Réponse A",
@@ -69,9 +72,10 @@
         ]
     },
     {
-        "situationImage": "img/game/map/situation4.png",
-        "situationRecord": "record/situation4.mp3",
+        "situationImage": "",
+        "situationRecord": "",
         "question": "Question 4 ?",
+		"explication": "",
         "possibleAnswers": [
         	{
         		"response": "Réponse A",
@@ -92,9 +96,10 @@
         ]
     },
     {
-        "situationImage": "img/game/map/situation5.png",
-        "situationRecord": "record/situation5.mp3",
-        "question": "Question 5 ?",
+        "situationImage": "",
+        "situationRecord": "",
+        "question": "Question 6 ?",
+		"explication": "",
         "possibleAnswers": [
         	{
         		"response": "Réponse A",
