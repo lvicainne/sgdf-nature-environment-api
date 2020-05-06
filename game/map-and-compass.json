@@ -1,7 +1,9 @@
 [
     {
         "situationImage": "img/game/map-and-compass/situation1.png",
+        "situationRecord": "",
         "question": "Question 1 ?",
+		"explication": "",
         "possibleAnswers": [
         	{
         		"response": "Réponse A",
@@ -23,7 +25,9 @@
     },
     {
         "situationImage": "img/game/map-and-compass/situation2.png",
+        "situationRecord": "",
         "question": "Question 2 ?",
+		"explication": "",
         "possibleAnswers": [
         	{
         		"response": "Réponse A",
@@ -45,7 +49,9 @@
     },
     {
         "situationImage": "img/game/map-and-compass/situation3.png",
+        "situationRecord": "",
         "question": "Question 3 ?",
+		"explication": "",
         "possibleAnswers": [
         	{
         		"response": "Réponse A",
