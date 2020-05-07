@@ -1,6 +1,6 @@
 [
     {
-        "situationImage": "img/game/map/forest1.jpg",
+        "situationImage": "img/game/forest/forest1.jpg",
 		"videoUrl": "",
         "situationRecord": "",
         "question": "Quelle est cette plante ?",
@@ -25,7 +25,7 @@
         ]
 	},
 	{
-        "situationImage": "img/game/map/forest2.jpg",
+        "situationImage": "img/game/forest/forest2.jpg",
 		"videoUrl": "",
         "situationRecord": "",
         "question": "Quelle est le vent dominant qui souffle sur les bouches du Rhône ?",
@@ -75,7 +75,7 @@
         ]
     },
 	{
-        "situationImage": "img/game/map/forest3.jpg",
+        "situationImage": "img/game/forest/forest3.jpg",
 		"videoUrl": "",
         "situationRecord": "",
         "question": "Quelle est cette plante ?",
@@ -100,7 +100,7 @@
         ]
     },
 	{
-        "situationImage": "img/game/map/forest4.jpg",
+        "situationImage": "img/game/forest/forest4.jpg",
 		"videoUrl": "",
         "situationRecord": "",
         "question": "Quelle est cette plante ?",
