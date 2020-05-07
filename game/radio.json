@@ -46,7 +46,7 @@
 		"videoUrl": "",
         "situationRecord": "",
         "question": "La radio fait bip bip toutes les 30 secondes :",
-		"explication": "",
+		"explication": "La radio n'a plus de batterie, il faut prevenire le PC de cette situation",
         "possibleAnswers": [
         	{
         		"response": "Elle n’a plus de batterie",
@@ -164,6 +164,113 @@
             {
         		"response": "Des anecdote en de camps",
         		"isCorrect": false
+        	}
+        ]
+    },
+    {
+        "situationImage": "",
+		"videoUrl": "",
+        "situationRecord": "",
+        "question": "comment je parle?",
+		"explication": "",
+        "possibleAnswers": [
+        	{
+        		"response": "je cris dans la radio",
+        		"isCorrect": false
+        	},
+            {
+        		"response": "je parle normalement en articulent",
+        		"isCorrect": true
+        	},
+            {
+        		"response": "je parle vite pour libérer le canal",
+        		"isCorrect": false
+        	}
+        	            {
+        		"response": "comme sur mon téléphone",
+        		"isCorrect": false
+        	}
+        ]
+    },
+    {
+        "situationImage": "",
+		"videoUrl": "",
+        "situationRecord": "",
+        "question": "Quand je part en mission...",
+		"explication": "",
+        "possibleAnswers": [
+        	{
+        		"response": "je test ma radio",
+        		"isCorrect": true
+        	},
+            {
+        		"response": "c’est du materiel pro ca marche",
+        		"isCorrect": false
+        	},
+            {
+        		"response": "on verra bien quand je vais l'utiliser",
+        		"isCorrect": false
+        	}
+        ]
+    },
+    {
+        "situationImage": "img/game/radio/RadioMissions.jpg",
+		"videoUrl": "",
+        "situationRecord": "",
+        "question": "Quelle bouton pour allumer et éteindre la radio?",
+		"explication": "",
+        "possibleAnswers": [
+        	{
+        		"response": "rouge",
+        		"isCorrect": false
+        	},
+            {
+        		"response": "jaune",
+        		"isCorrect": true
+        	},
+            {
+        		"response": "bleu ",
+        		"isCorrect": false
+        	}
+        ]
+    }    {
+        "situationImage": "img/game/radio/RadioMissions.jpg",
+		"videoUrl": "",
+        "situationRecord": "",
+        "question": "quelle est le bouton pour parler",
+		"explication": "",
+        "possibleAnswers": [
+        	{
+        		"response": "rouge",
+        		"isCorrect": true
+        	},
+            {
+        		"response": "jaune",
+        		"isCorrect": false
+        	},
+            {
+        		"response": "bleu ",
+        		"isCorrect": false
+        	}
+        ]
+    }    {
+        "situationImage": "img/game/radio/RadioMissions.jpg",
+		"videoUrl": "",
+        "situationRecord": "",
+        "question": "comment je change de canal",
+		"explication": "",
+        "possibleAnswers": [
+        	{
+        		"response": "rouge",
+        		"isCorrect": false
+        	},
+            {
+        		"response": "jaune",
+        		"isCorrect": false
+        	},
+            {
+        		"response": "bleu ",
+        		"isCorrect": true
         	}
         ]
     }
