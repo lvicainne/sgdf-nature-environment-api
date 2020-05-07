@@ -316,8 +316,7 @@
         		"isCorrect": true
         	},
             {
-        		"response": "Débroussaillage, nettoyage, reboisement, surveillance, prévention,
-intervention",
+        		"response": "Débroussaillage, nettoyage, reboisement, surveillance, prévention, intervention",
         		"isCorrect": false
         	},
         	{
@@ -334,8 +333,7 @@ intervention",
         "situationImage": "",
 		"videoUrl": "",
         "situationRecord": "",
-        "question": "Combien y a-t-il de niveaux sur l’échelle de risque dans la réglementation des
-massifs ?",
+        "question": "Combien y a-t-il de niveaux sur l’échelle de risque dans la réglementation des massifs ?",
 		"explication": "Vert, Jaune, Orange, Rouge",
         "possibleAnswers": [
         	{
@@ -360,8 +358,7 @@ massifs ?",
         "situationImage": "",
 		"videoUrl": "",
         "situationRecord": "",
-        "question": "En cas de niveau rouge, que doit signaler l’équipe de surveillance au PC lorsqu’elle se
-trouve à une barrière DFCI ?",
+        "question": "En cas de niveau rouge, que doit signaler l’équipe de surveillance au PC lorsqu’elle se trouve à une barrière DFCI ?",
 		"explication": "",
         "possibleAnswers": [
         	{
@@ -386,8 +383,7 @@ trouve à une barrière DFCI ?",
         "situationImage": "",
 		"videoUrl": "",
         "situationRecord": "",
-        "question": "En cas de niveau vert, jaune ou orange, que doit signaler la patrouille au PC
-lorsqu’elle se trouve sur un chemin DFCI ?",
+        "question": "En cas de niveau vert, jaune ou orange, que doit signaler la patrouille au PC lorsqu’elle se trouve sur un chemin DFCI ?",
 		"explication": "",
         "possibleAnswers": [
         	{
@@ -491,8 +487,7 @@ lorsqu’elle se trouve sur un chemin DFCI ?",
 		"explication": "",
         "possibleAnswers": [
         	{
-        		"response": "La règle des 30 (température supérieurs à 30°C + pourcentage d’humidité
-inférieure à 30% + vent soufflant à plus de 30 km/h)",
+        		"response": "La règle des 30 (température supérieurs à 30°C + pourcentage d’humidité inférieure à 30% + vent soufflant à plus de 30 km/h)",
         		"isCorrect": true
         	},
             {
