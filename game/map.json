@@ -1,122 +1,463 @@
 [
     {
-        "situationImage": "img/game/map/situation1.png",
+        "situationImage": "",
+		"videoUrl": "",
         "situationRecord": "",
-        "question": "Question 1 ?",
+        "question": "Les catégories des pistes dépendent de",
 		"explication": "",
         "possibleAnswers": [
         	{
-        		"response": "Réponse A",
+        		"response": "Leur largeur",
         		"isCorrect": true
         	},
             {
-        		"response": "Réponse B",
+        		"response": "La taille des cailloux",
         		"isCorrect": false
         	},
         	{
-        		"response": "Réponse C",
+        		"response": "La couleur des barrières",
         		"isCorrect": false
-        	},
-            {
-                "response": "Réponse D",
-        		"isCorrect": false
-            }
-        ]
-    },
-    {
-        "situationImage": "img/game/map/situation2.png",
-        "situationRecord": "",
-        "question": "Question 2 ?",
-		"explication": "",
-        "possibleAnswers": [
-        	{
-        		"response": "Réponse A",
-        		"isCorrect": false
-        	},
-            {
-        		"response": "Réponse B",
-        		"isCorrect": true
-        	},
-        	{
-        		"response": "Réponse C",
-        		"isCorrect": false
-        	},
-            {
-                "response": "Réponse D",
-        		"isCorrect": false
-            }
-        ]
-    },
-    {
-        "situationImage": "img/game/map/situation3.png",
-        "situationRecord": "",
-        "question": "Question 3 ?",
-		"explication": "",
-        "possibleAnswers": [
-        	{
-        		"response": "Réponse A",
-        		"isCorrect": false
-        	},
-            {
-        		"response": "Réponse B",
-        		"isCorrect": false
-        	},
-        	{
-        		"response": "Réponse C",
-        		"isCorrect": true
-        	},
-            {
-                "response": "Réponse D",
-        		"isCorrect": false
-            }
+        	}
         ]
     },
     {
         "situationImage": "",
+		"videoUrl": "",
         "situationRecord": "",
-        "question": "Question 4 ?",
+        "question": "Le nord géographique est",
 		"explication": "",
         "possibleAnswers": [
-        	{
-        		"response": "Réponse A",
-        		"isCorrect": false
-        	},
             {
-        		"response": "Réponse B",
+        		"response": "Ça dépend du vent",
         		"isCorrect": false
         	},
         	{
-        		"response": "Réponse C",
+        		"response": "En haut de l'aiguille de la boussole",
         		"isCorrect": false
         	},
             {
-                "response": "Réponse D",
+                "response": "Indiqué sur le bord de la carte",
         		"isCorrect": true
             }
         ]
     },
     {
         "situationImage": "",
+		"videoUrl": "",
         "situationRecord": "",
-        "question": "Question 6 ?",
+        "question": "Où se trouve le sommet d’une montagne",
 		"explication": "",
         "possibleAnswers": [
         	{
-        		"response": "Réponse A",
-        		"isCorrect": false
-        	},
-            {
-        		"response": "Réponse B",
-        		"isCorrect": false
-        	},
-        	{
-        		"response": "Réponse C",
+        		"response": "Au chiffre le plus élevé indiqué sur la carte le plus souvent annoté par un point en noir",
         		"isCorrect": true
         	},
             {
-                "response": "Réponse D",
+        		"response": "Au centre du carré DFCI",
         		"isCorrect": false
-            }
+        	},
+        	{
+        		"response": "Oui",
+        		"isCorrect": false
+        	}
+        ]
+    },
+    {
+        "situationImage": "",
+		"videoUrl": "",
+        "situationRecord": "",
+        "question": "Les courbes de niveaux permettent de savoir si on peut faire du VTT",
+		"explication": "Elles relient tous les points d’un même côté et permettent en fonction de leur écart de savoir si la pente est raide ou si on est sur un terrain plat",
+        "possibleAnswers": [
+        	{
+        		"response": "Vrai",
+        		"isCorrect": false
+        	},
+            {
+        		"response": "Faux",
+        		"isCorrect": true
+        	}
+        ]
+    },
+    {
+        "situationImage": "img/game/map/carte1.PNG",
+		"videoUrl": "",
+        "situationRecord": "",
+        "question": "Où est situer le nord sur la carte ci-dessus ?",
+		"explication": "Le Nord d'un carte est définit par la rose des vents.",
+        "possibleAnswers": [
+        	{
+        		"response": "En haut",
+        		"isCorrect": false
+        	},
+            {
+        		"response": "En bas",
+        		"isCorrect": true
+        	},
+            {
+        		"response": "À gauche",
+        		"isCorrect": false
+        	},
+            {
+        		"response": "À droite",
+        		"isCorrect": false
+        	}
+        ]
+    },
+    {
+        "situationImage": "img/game/map/carte2.PNG",
+		"videoUrl": "",
+        "situationRecord": "",
+        "question": "Quelle est la signification du numéro entouré en rouge ?",
+		"explication": "Les cartes topographiques permettent de percevoir le relief, déterminer des altitudes et mesurer des pentes par les courbes de niveau. Ces courbes sont définies par des traits fins de couleur bistre. La valeur de l'équidistance entre deux courbes est notée dans la légende de la carte et peut varier d'une carte à l'autre en fonction de l'échelle et du relief cartographié.",
+        "possibleAnswers": [
+        	{
+        		"response": "Il recense le nombre d'habitants de la commune",
+        		"isCorrect": false
+        	},
+            {
+        		"response": "Ce point est à 146 kilomètres de Paris",
+        		"isCorrect": false
+        	},
+            {
+        		"response": "Ce point est à 146 mètres d'altitude",
+        		"isCorrect": true
+        	}
+        ]
+    },
+    {
+        "situationImage": "img/game/map/carte3.PNG",
+		"videoUrl": "",
+        "situationRecord": "",
+        "question": "À quoi correspond le symbole entouré en rouge ?",
+		"explication": "Le logo de la coquille européenne de l'Itinéraire Culturel du Conseil de l'Europe permet de définir les itinéraires pédestres vers Compostelle au niveau européen.",
+        "possibleAnswers": [
+        	{
+        		"response": "Un gîte d'étape y est installé",
+        		"isCorrect": false
+        	},
+            {
+        		"response": "Il représente un chemin vers Compostelle",
+        		"isCorrect": true
+        	},
+            {
+        		"response": "Il indique la présence de panneaux solaires",
+        		"isCorrect": false
+        	}
+        ]
+    },
+    {
+        "situationImage": "img/game/map/carte4.PNG",
+		"videoUrl": "",
+        "situationRecord": "",
+        "question": "Que représente le trait discontinu espacé de points ?",
+		"explication": "Un trait discontinu espacé de points représente la frontière entre un département et un autre.",
+        "possibleAnswers": [
+        	{
+        		"response": "La limite d'un zone militaire",
+        		"isCorrect": false
+        	},
+            {
+        		"response": "Une ligne électrique",
+        		"isCorrect": false
+        	},
+            {
+        		"response": "La limite entre 2 départements",
+        		"isCorrect": true
+        	}
+        ]
+    },
+    {
+        "situationImage": "img/game/map/carte5.PNG",
+		"videoUrl": "",
+        "situationRecord": "",
+        "question": "À quoi correspond le trait violet ?",
+		"explication": "Sur une carte IGN, les sentiers balisés GR® sont décrits par un trait violet.",
+        "possibleAnswers": [
+        	{
+        		"response": "un GR®",
+        		"isCorrect": true
+        	},
+            {
+        		"response": "Il trace les contours de la base de loisirs.",
+        		"isCorrect": false
+        	},
+            {
+        		"response": "Une route exclusivement piétonne",
+        		"isCorrect": false
+        	}
+        ]
+    },
+    {
+        "situationImage": "img/game/map/carte6.PNG",
+		"videoUrl": "",
+        "situationRecord": "",
+        "question": "Si je suis le sens de la flèche, dans quel type de relief vais-je ?",
+		"explication": "Les lignes de niveau et les altitudes qui leur sont associées nous préviennent que le randonneur entamera ici une descente s'il suit la flèche rouge (La flèche rouge n'est pas présente sur la carte).",
+        "possibleAnswers": [
+        	{
+        		"response": "Une descente",
+        		"isCorrect": true
+        	},
+            {
+        		"response": "Une montée",
+        		"isCorrect": false
+        	},
+            {
+        		"response": "Un plat",
+        		"isCorrect": false
+        	}
+        ]
+    },
+    {
+        "situationImage": "",
+		"videoUrl": "",
+        "situationRecord": "",
+        "question": "En France, les altitudes données sur une carte IGN sont calculées à partir de quel référentiel ?",
+		"explication": "Elément assez peu connu du patrimoine national, le marégraphe fut construit au 19ème siècle pour fixer l’origine du nivellement général de la France (l’altitude 0). Dans une ambiance évoquant Jules Verne, il abrite un instrument unique au monde, dit « marégraphe totalisateur », construit en 1884 et encore en parfait état de fonctionnement.",
+        "possibleAnswers": [
+        	{
+        		"response": "L'hagiographe de Paris",
+        		"isCorrect": false
+        	},
+            {
+        		"response": "Le chalcographe de Nantes",
+        		"isCorrect": false
+        	},
+            {
+        		"response": "Le marégraphe de Marseille",
+        		"isCorrect": true
+        	}
+        ]
+	},
+    {
+        "situationImage": "img/game/map/carte7.PNG",
+		"videoUrl": "",
+        "situationRecord": "",
+        "question": "Quelle est la signification de ce chiffre au-dessus du nom de la ville ?",
+		"explication": "Au-dessus ou en-dessous du nom de chaque commune, le randonneur trouvera un nombre décimal qui représente le milliers d'habitants qui y vivent.",
+        "possibleAnswers": [
+        	{
+        		"response": "Le nombre d'habitants de la ville en milliers",
+        		"isCorrect": true
+        	},
+            {
+        		"response": "La distance kilométrique entre la ville et Paris",
+        		"isCorrect": false
+        	},
+            {
+        		"response": "L'évaluation de la commune en qualité de \"ville verte\"",
+        		"isCorrect": false
+        	}
+        ]
+    },
+    {
+        "situationImage": "img/game/map/carte8.PNG",
+		"videoUrl": "",
+        "situationRecord": "",
+        "question": "Que représente ce logo au-dessus du nom de la commune ?",
+		"explication": "Ce logo représente le fait que la ville est une station thermale. De nombreux autres sigles peuvent être renseignés tels que celui pour évoquer une ville d'art, de sport d'hiver ou encore balnéaire.",
+        "possibleAnswers": [
+        	{
+        		"response": "La ville est classée au Patrimoine Mondial de l'UNESCO.",
+        		"isCorrect": false
+        	},
+            {
+        		"response": "La ville dispose d'un site remarquable.",
+        		"isCorrect": false
+        	},
+            {
+        		"response": "La ville est une station thermale.",
+        		"isCorrect": true
+        	},
+            {
+        		"response": "Un point d'observation",
+        		"isCorrect": false
+        	}
+        ]
+    },
+    {
+        "situationImage": "img/game/map/carte9.PNG",
+		"videoUrl": "",
+        "situationRecord": "",
+        "question": "Que représente le petit cercle au contour bleu ?",
+		"explication": "Un cercle rempli de bleu représente une source d'eau ou une fontaine. Quand il s'agit d'un carré bleu, c'est alors un réservoir d'eau.",
+        "possibleAnswers": [
+        	{
+        		"response": "La présence d'une source d'eau ou une fontaine",
+        		"isCorrect": false
+        	},
+            {
+        		"response": "Un château d'eau",
+        		"isCorrect": true
+        	},
+            {
+        		"response": "Un réservoir d'eau",
+        		"isCorrect": false
+        	},
+            {
+        		"response": "Une ferme",
+        		"isCorrect": false
+        	}
+        ]
+    },
+    {
+        "situationImage": "img/game/map/carte10.PNG",
+		"videoUrl": "",
+        "situationRecord": "",
+        "question": "Quelle type de végétation le randonneur rencontre-t-il ici ?",
+		"explication": "Des broussailles sont représentés par deux traits vert foncé en forme de v ; Les conifères ont eux une forme de sapin.",
+        "possibleAnswers": [
+        	{
+        		"response": "Un bois de feuillus",
+        		"isCorrect": true
+        	},
+            {
+        		"response": "Un bois de conifères",
+        		"isCorrect": false
+        	},
+            {
+        		"response": "Des broussailles",
+        		"isCorrect": false
+        	}
+        ]
+    },
+    {
+        "situationImage": "",
+		"videoUrl": "",
+        "situationRecord": "",
+        "question": "Qu'est-ce que la déclinaison magnétique ?",
+		"explication": "",
+        "possibleAnswers": [
+        	{
+        		"response": "C'est l'inclinaison du pôle Nord par rapport au pôle Sud.",
+        		"isCorrect": false
+        	},
+            {
+        		"response": "C'est la différence qui existe entre le Nord magnétique et le Nord géographique.",
+        		"isCorrect": true
+        	},
+            {
+        		"response": "C'est l'inclinaison qui existe entre l'hémisphère Nord et l'hémisphère Sud.",
+        		"isCorrect": false
+        	}
+        ]
+    },
+    {
+        "situationImage": "",
+		"videoUrl": "",
+        "situationRecord": "",
+        "question": "Qu'est-ce que le Nord géographique ?",
+		"explication": "",
+        "possibleAnswers": [
+        	{
+        		"response": "C'est la direction qu'indique l'aiguille d'une boussole.",
+        		"isCorrect": false
+        	},
+            {
+        		"response": "C'est le point de convergence des parallèles au milieu du globe.",
+        		"isCorrect": false
+        	},
+            {
+        		"response": "C'est le point de convergence des méridiens et de l'axe de rotation de la terre au sommet du globe.",
+        		"isCorrect": true
+        	}
+        ]
+    },
+    {
+        "situationImage": "",
+		"videoUrl": "",
+        "situationRecord": "",
+        "question": "Qu'est-ce que les courbes de niveau ?",
+		"explication": "",
+        "possibleAnswers": [
+        	{
+        		"response": "Ce sont des lignes imaginaires qui relient tous les points d'une même altitude.",
+        		"isCorrect": true
+        	},
+            {
+        		"response": "Ce sont les lignes de couleurs orange qui sont au même niveau.",
+        		"isCorrect": false
+        	},
+            {
+        		"response": "Ce sont les courbes sur la carte ajustées au niveau à bulle.",
+        		"isCorrect": false
+        	}
+        ]
+    },
+    {
+        "situationImage": "",
+		"videoUrl": "",
+        "situationRecord": "",
+        "question": "Qu'elle est la distance matérialisée par un carreau sur une carte de 1:25000 (4x4 cm) ?",
+		"explication": "",
+        "possibleAnswers": [
+        	{
+        		"response": "2x2 km",
+        		"isCorrect": false
+        	},
+            {
+        		"response": "100x100 m",
+        		"isCorrect": false
+        	},
+            {
+        		"response": "1x1 km",
+        		"isCorrect": true
+        	},
+            {
+        		"response": "4x4 km",
+        		"isCorrect": false
+        	}
+        ]
+	},
+    {
+        "situationImage": "",
+		"videoUrl": "",
+        "situationRecord": "",
+        "question": "Que relie une courbe de niveau ?",
+		"explication": "",
+        "possibleAnswers": [
+        	{
+        		"response": "Les différents sommets",
+        		"isCorrect": false
+        	},
+            {
+        		"response": "Les points ayants la même altitude",
+        		"isCorrect": true
+        	},
+            {
+        		"response": "Le chemin des crètes",
+        		"isCorrect": false
+        	},
+            {
+        		"response": "Les points ayant la même profondeur",
+        		"isCorrect": false
+        	}
+        ]
+    },
+    {
+        "situationImage": "",
+		"videoUrl": "",
+        "situationRecord": "",
+        "question": "Si la carte est entière (carte du commerce intacte), pour l'orienté, je place la boussole sur :",
+		"explication": "",
+        "possibleAnswers": [
+        	{
+        		"response": "Le bord de la carte",
+        		"isCorrect": true
+        	},
+            {
+        		"response": "Le milieu de la carte",
+        		"isCorrect": false
+        	},
+            {
+        		"response": "Un aimant/objet métallique",
+        		"isCorrect": false
+        	},
+            {
+        		"response": "La tête de Timothé",
+        		"isCorrect": false
+        	}
         ]
     }
 ]
