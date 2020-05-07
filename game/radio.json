@@ -3,23 +3,61 @@
         "situationImage": "",
 		"videoUrl": "",
         "situationRecord": "",
+        "question": "En mission je mets la radio :",
+		"explication": "",
+        "possibleAnswers": [
+        	{
+        		"response": "Sur mon épaule",
+        		"isCorrect": true
+        	},
+            {
+        		"response": "Dans mon sac",
+        		"isCorrect": false
+        	},
+            {
+        		"response": "Dans ma poche",
+        		"isCorrect": false
+        	}
+        ]
+    },
+	{
+        "situationImage": "Si j’entends “PC Saint Julien de vigie Moulin”, c’est :",
+		"videoUrl": "",
+        "situationRecord": "",
         "question": "",
 		"explication": "",
         "possibleAnswers": [
         	{
-        		"response": "",
+        		"response": "la vigie qui appelle le PC pour un signalement",
         		"isCorrect": true
         	},
             {
-        		"response": "",
+        		"response": "un appel de routine du PC",
         		"isCorrect": false
         	},
             {
-        		"response": "",
+        		"response": "un appel de la vigie qui réclame un réchaud",
+        		"isCorrect": false
+        	}
+        ]
+    },
+	{
+        "situationImage": "La radio fait bip bip toutes les 30 secondes :",
+		"videoUrl": "",
+        "situationRecord": "",
+        "question": "",
+		"explication": "",
+        "possibleAnswers": [
+        	{
+        		"response": "Elle n’a plus de batterie",
+        		"isCorrect": true
+        	},
+            {
+        		"response": "quelqu’un m’appelle, je décroche",
         		"isCorrect": false
         	},
             {
-        		"response": "",
+        		"response": "quelqu’un m’appelle en morse, je déchiffre.",
         		"isCorrect": false
         	}
         ]
