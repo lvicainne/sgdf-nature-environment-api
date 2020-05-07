@@ -41,7 +41,7 @@
         	},
             {
         		"response": "Mistral",
-        		"isCorrect": false
+        		"isCorrect": true
         	},
             {
         		"response": "Sirocco",
@@ -70,7 +70,7 @@
         	},
             {
         		"response": "La cigale",
-        		"isCorrect": false
+        		"isCorrect": true
         	}
         ]
     },
@@ -87,7 +87,7 @@
         	},
             {
         		"response": "Lavande",
-        		"isCorrect": false
+        		"isCorrect": true
         	},
             {
         		"response": "Romarin",
@@ -108,7 +108,7 @@
         "possibleAnswers": [
         	{
         		"response": "Sauge",
-        		"isCorrect": false
+        		"isCorrect": true
         	},
             {
         		"response": "Lavande",
