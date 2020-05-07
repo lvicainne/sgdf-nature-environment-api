@@ -147,7 +147,7 @@
         ]
     },
     {
-        "situationImage": "img/game/map/carte1.png",
+        "situationImage": "img/game/map/carte1.PNG",
 		"videoUrl": "",
         "situationRecord": "",
         "question": "Où est situer le nord sur la carte ci-dessus ?",
@@ -172,7 +172,7 @@
         ]
     },
     {
-        "situationImage": "img/game/map/carte2.png",
+        "situationImage": "img/game/map/carte2.PNG",
 		"videoUrl": "",
         "situationRecord": "",
         "question": "Quelle est la signification du numéro entouré en rouge ?",
@@ -193,7 +193,7 @@
         ]
     },
     {
-        "situationImage": "img/game/map/carte3.png",
+        "situationImage": "img/game/map/carte3.PNG",
 		"videoUrl": "",
         "situationRecord": "",
         "question": "À quoi correspond le symbole entouré en rouge ?",
@@ -214,7 +214,7 @@
         ]
     },
     {
-        "situationImage": "img/game/map/carte4.png",
+        "situationImage": "img/game/map/carte4.PNG",
 		"videoUrl": "",
         "situationRecord": "",
         "question": "Que représente le trait discontinu espacé de points ?",
@@ -235,7 +235,7 @@
         ]
     },
     {
-        "situationImage": "img/game/map/carte5.png",
+        "situationImage": "img/game/map/carte5.PNG",
 		"videoUrl": "",
         "situationRecord": "",
         "question": "À quoi correspond le trait violet ?",
@@ -256,7 +256,7 @@
         ]
     },
     {
-        "situationImage": "img/game/map/carte6.png",
+        "situationImage": "img/game/map/carte6.PNG",
 		"videoUrl": "",
         "situationRecord": "",
         "question": "Si je suis le sens de la flèche, dans quel type de relief vais-je ?",
@@ -298,7 +298,7 @@
         ]
 	},
     {
-        "situationImage": "img/game/map/carte7.png",
+        "situationImage": "img/game/map/carte7.PNG",
 		"videoUrl": "",
         "situationRecord": "",
         "question": "Quelle est la signification de ce chiffre au-dessus du nom de la ville ?",
@@ -319,7 +319,7 @@
         ]
     },
     {
-        "situationImage": "img/game/map/carte8.png",
+        "situationImage": "img/game/map/carte8.PNG",
 		"videoUrl": "",
         "situationRecord": "",
         "question": "Que représente ce logo au-dessus du nom de la commune ?",
@@ -344,7 +344,7 @@
         ]
     },
     {
-        "situationImage": "img/game/map/carte9.png",
+        "situationImage": "img/game/map/carte9.PNG",
 		"videoUrl": "",
         "situationRecord": "",
         "question": "Que représente le petit cercle au contour bleu ?",
@@ -369,7 +369,7 @@
         ]
     },
     {
-        "situationImage": "img/game/map/carte10.png",
+        "situationImage": "img/game/map/carte10.PNG",
 		"videoUrl": "",
         "situationRecord": "",
         "question": "Quelle type de végétation le randonneur rencontre-t-il ici ?",
