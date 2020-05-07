@@ -51,8 +51,8 @@
     },
 	{
         "situationImage": "",
-		"videoUrl": "XUV_GJW4HU0",
-        "situationRecord": "",
+		"videoUrl": "",
+        "situationRecord": "record/cigales.mp3",
         "question": "Quel insecte fait ce bruit ?",
 		"explication": "",
         "possibleAnswers": [
