@@ -321,5 +321,143 @@
         		"isCorrect": false
         	}
         ]
+    },
+    {
+        "situationImage": "",
+		"videoUrl": "",
+        "situationRecord": "",
+        "question": "Qu'est-ce que la déclinaison magnétique ?",
+		"explication": "",
+        "possibleAnswers": [
+        	{
+        		"response": "C'est l'inclinaison du pôle Nord par rapport au pôle Sud.",
+        		"isCorrect": false
+        	},
+            {
+        		"response": "C'est la différence qui existe entre le Nord magnétique et le Nord géographique.",
+        		"isCorrect": true
+        	},
+            {
+        		"response": "C'est l'inclinaison qui existe entre l'hémisphère Nord et l'hémisphère Sud.",
+        		"isCorrect": false
+        	}
+        ]
+    },
+    {
+        "situationImage": "",
+		"videoUrl": "",
+        "situationRecord": "",
+        "question": "Qu'est-ce que le Nord géographique ?",
+		"explication": "",
+        "possibleAnswers": [
+        	{
+        		"response": "C'est la direction qu'indique l'aiguille d'une boussole.",
+        		"isCorrect": false
+        	},
+            {
+        		"response": "C'est le point de convergence des parallèles au milieu du globe.",
+        		"isCorrect": false
+        	},
+            {
+        		"response": "C'est le point de convergence des méridiens et de l'axe de rotation de la terre au sommet du globe.",
+        		"isCorrect": true
+        	}
+        ]
+    },
+    {
+        "situationImage": "",
+		"videoUrl": "",
+        "situationRecord": "",
+        "question": "Qu'est-ce que les courbes de niveau ?",
+		"explication": "",
+        "possibleAnswers": [
+        	{
+        		"response": "Ce sont des lignes imaginaires qui relient tous les points d'une même altitude.",
+        		"isCorrect": true
+        	},
+            {
+        		"response": "Ce sont les lignes de couleurs orange qui sont au même niveau.",
+        		"isCorrect": false
+        	},
+            {
+        		"response": "Ce sont les courbes sur la carte ajustées au niveau à bulle.",
+        		"isCorrect": false
+        	}
+        ]
+    },
+    {
+        "situationImage": "",
+		"videoUrl": "",
+        "situationRecord": "",
+        "question": "Qu'elle est la distance matérialisée par un carreau sur une carte de 1:25000 (4x4 cm) ?",
+		"explication": "",
+        "possibleAnswers": [
+        	{
+        		"response": "2x2 km",
+        		"isCorrect": false
+        	},
+            {
+        		"response": "100x100 m",
+        		"isCorrect": false
+        	},
+            {
+        		"response": "1x1 km",
+        		"isCorrect": true
+        	},
+            {
+        		"response": "4x4 km",
+        		"isCorrect": false
+        	}
+        ]
+	},
+    {
+        "situationImage": "",
+		"videoUrl": "",
+        "situationRecord": "",
+        "question": "Que relie une courbe de niveau ?",
+		"explication": "",
+        "possibleAnswers": [
+        	{
+        		"response": "Les différents sommets",
+        		"isCorrect": false
+        	},
+            {
+        		"response": "Les points ayants la même altitude",
+        		"isCorrect": true
+        	},
+            {
+        		"response": "Le chemin des crètes",
+        		"isCorrect": false
+        	},
+            {
+        		"response": "Les points ayant la même profondeur",
+        		"isCorrect": false
+        	}
+        ]
+    },
+    {
+        "situationImage": "",
+		"videoUrl": "",
+        "situationRecord": "",
+        "question": "Si la carte est entière (carte du commerce intacte), pour l'orienté, je place la boussole sur :",
+		"explication": "",
+        "possibleAnswers": [
+        	{
+        		"response": "Le bord de la carte",
+        		"isCorrect": true
+        	},
+            {
+        		"response": "Le milieu de la carte",
+        		"isCorrect": false
+        	},
+            {
+        		"response": "Un aimant/objet métallique",
+        		"isCorrect": false
+        	},
+            {
+        		"response": "La tête de Timothé",
+        		"isCorrect": false
+        	}
+        ]
     }
 ]
