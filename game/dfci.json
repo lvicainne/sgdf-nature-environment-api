@@ -1,77 +1,27 @@
 [
     {
-        "situationImage": "img/game/radio/situation1.png",
-		"videoUrl": "",
-		"situationRecord": "",
-		"question": "Question 1 ?",
-		"explication": "",
-        "possibleAnswers": [
-        	{
-        		"response": "Réponse A",
-        		"isCorrect": true
-        	},
-            {
-        		"response": "Réponse B",
-        		"isCorrect": false
-        	},
-        	{
-        		"response": "Réponse C",
-        		"isCorrect": false
-        	},
-            {
-                "response": "Réponse D",
-        		"isCorrect": false
-            }
-        ]
-    },
-    {
-        "situationImage": "img/game/radio/situation2.png",
+        "situationImage": "",
 		"videoUrl": "",
         "situationRecord": "",
+        "question": "",
 		"explication": "",
-        "question": "Question 2 ?",
         "possibleAnswers": [
         	{
-        		"response": "Réponse A",
-        		"isCorrect": false
-        	},
-            {
-        		"response": "Réponse B",
-        		"isCorrect": true
-        	},
-        	{
-        		"response": "Réponse C",
-        		"isCorrect": false
-        	},
-            {
-                "response": "Réponse D",
-        		"isCorrect": false
-            }
-        ]
-    },
-    {
-        "situationImage": "img/game/radio/situation3.png",
-		"videoUrl": "",
-        "situationRecord": "",
-		"explication": "",
-        "question": "Question 3 ?",
-        "possibleAnswers": [
-        	{
-        		"response": "Réponse A",
-        		"isCorrect": false
-        	},
-            {
-        		"response": "Réponse B",
-        		"isCorrect": false
-        	},
-        	{
-        		"response": "Réponse C",
+        		"response": "",
         		"isCorrect": true
         	},
             {
-                "response": "Réponse D",
+        		"response": "",
         		"isCorrect": false
-            }
+        	},
+            {
+        		"response": "",
+        		"isCorrect": false
+        	},
+            {
+        		"response": "",
+        		"isCorrect": false
+        	}
         ]
     }
 ]
