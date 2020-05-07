@@ -1,7 +1,8 @@
 [
     {
         "situationImage": "img/game/radio/situation1.png",
-        "situationRecord": "",
+		"videoUrl": "",
+		"situationRecord": "",
 		"question": "Question 1 ?",
 		"explication": "",
         "possibleAnswers": [
@@ -25,6 +26,7 @@
     },
     {
         "situationImage": "img/game/radio/situation2.png",
+		"videoUrl": "",
         "situationRecord": "",
 		"explication": "",
         "question": "Question 2 ?",
@@ -49,6 +51,7 @@
     },
     {
         "situationImage": "img/game/radio/situation3.png",
+		"videoUrl": "",
         "situationRecord": "",
 		"explication": "",
         "question": "Question 3 ?",

@@ -1,6 +1,7 @@
 [
     {
         "situationImage": "",
+		"videoUrl": "",
         "situationRecord": "",
         "question": "Quelles sont les dimensions d'un carré DFCI ?",
 		"explication": "",
@@ -25,6 +26,7 @@
     },
     {
         "situationImage": "",
+		"videoUrl": "",
         "situationRecord": "",
         "question": "Un carré DFCI est composé de",
 		"explication": "",
@@ -49,6 +51,7 @@
     },
     {
         "situationImage": "",
+		"videoUrl": "",
         "situationRecord": "",
         "question": "Les catégories des pistes dépendent de",
 		"explication": "",
@@ -69,6 +72,7 @@
     },
     {
         "situationImage": "",
+		"videoUrl": "",
         "situationRecord": "",
         "question": "Le nord géographique est",
 		"explication": "",
@@ -89,6 +93,7 @@
     },
     {
         "situationImage": "",
+		"videoUrl": "",
         "situationRecord": "",
         "question": "Où se trouve le sommet d’une montagne",
 		"explication": "",
@@ -109,6 +114,7 @@
     },
     {
         "situationImage": "",
+		"videoUrl": "",
         "situationRecord": "",
         "question": "Les courbes de niveaux permettent de savoir si on peut faire du VTT",
 		"explication": "Elles relient tous les points d’un même côté et permettent en fonction de leur écart de savoir si la pente est raide ou si on est sur un terrain plat",
@@ -125,6 +131,7 @@
     },
     {
         "situationImage": "",
+		"videoUrl": "",
         "situationRecord": "",
         "question": "Les coordonnées des carrés DFCI sont à dire en alphabet international",
 		"explication": "",
@@ -141,6 +148,7 @@
     },
     {
         "situationImage": "/img/game/map/carte1.png",
+		"videoUrl": "",
         "situationRecord": "",
         "question": "Où est situer le nord sur la carte ci-dessus ?",
 		"explication": "Le Nord d'un carte est définit par la rose des vents.",
@@ -165,6 +173,7 @@
     },
     {
         "situationImage": "/img/game/map/carte2.png",
+		"videoUrl": "",
         "situationRecord": "",
         "question": "Quelle est la signification du numéro entouré en rouge ?",
 		"explication": "Les cartes topographiques permettent de percevoir le relief, déterminer des altitudes et mesurer des pentes par les courbes de niveau. Ces courbes sont définies par des traits fins de couleur bistre. La valeur de l'équidistance entre deux courbes est notée dans la légende de la carte et peut varier d'une carte à l'autre en fonction de l'échelle et du relief cartographié.",
@@ -185,6 +194,7 @@
     },
     {
         "situationImage": "/img/game/map/carte3.png",
+		"videoUrl": "",
         "situationRecord": "",
         "question": "À quoi correspond le symbole entouré en rouge ?",
 		"explication": "Le logo de la coquille européenne de l'Itinéraire Culturel du Conseil de l'Europe permet de définir les itinéraires pédestres vers Compostelle au niveau européen.",
@@ -205,6 +215,7 @@
     },
     {
         "situationImage": "/img/game/map/carte4.png",
+		"videoUrl": "",
         "situationRecord": "",
         "question": "Que représente le trait discontinu espacé de points ?",
 		"explication": "Un trait discontinu espacé de points représente la frontière entre un département et un autre.",
@@ -225,6 +236,7 @@
     },
     {
         "situationImage": "/img/game/map/carte5.png",
+		"videoUrl": "",
         "situationRecord": "",
         "question": "À quoi correspond le trait violet ?",
 		"explication": "Sur une carte IGN, les sentiers balisés GR® sont décrits par un trait violet.",
@@ -245,6 +257,7 @@
     },
     {
         "situationImage": "/img/game/map/carte6.png",
+		"videoUrl": "",
         "situationRecord": "",
         "question": "Si je suis le sens de la flèche, dans quel type de relief vais-je ?",
 		"explication": "Les lignes de niveau et les altitudes qui leur sont associées nous préviennent que le randonneur entamera ici une descente s'il suit la flèche rouge (La flèche rouge n'est pas présente sur la carte).",
@@ -265,6 +278,7 @@
     },
     {
         "situationImage": "",
+		"videoUrl": "",
         "situationRecord": "",
         "question": "En France, les altitudes données sur une carte IGN sont calculées à partir de quel référentiel ?",
 		"explication": "Elément assez peu connu du patrimoine national, le marégraphe fut construit au 19ème siècle pour fixer l’origine du nivellement général de la France (l’altitude 0). Dans une ambiance évoquant Jules Verne, il abrite un instrument unique au monde, dit « marégraphe totalisateur », construit en 1884 et encore en parfait état de fonctionnement.",
@@ -285,6 +299,7 @@
 	},
     {
         "situationImage": "/img/game/map/carte7.png",
+		"videoUrl": "",
         "situationRecord": "",
         "question": "Quelle est la signification de ce chiffre au-dessus du nom de la ville ?",
 		"explication": "Au-dessus ou en-dessous du nom de chaque commune, le randonneur trouvera un nombre décimal qui représente le milliers d'habitants qui y vivent.",
@@ -305,6 +320,7 @@
     },
     {
         "situationImage": "/img/game/map/carte8.png",
+		"videoUrl": "",
         "situationRecord": "",
         "question": "Que représente ce logo au-dessus du nom de la commune ?",
 		"explication": "Ce logo représente le fait que la ville est une station thermale. De nombreux autres sigles peuvent être renseignés tels que celui pour évoquer une ville d'art, de sport d'hiver ou encore balnéaire.",
@@ -329,6 +345,7 @@
     },
     {
         "situationImage": "/img/game/map/carte9.png",
+		"videoUrl": "",
         "situationRecord": "",
         "question": "Que représente le petit cercle au contour bleu ?",
 		"explication": "Un cercle rempli de bleu représente une source d'eau ou une fontaine. Quand il s'agit d'un carré bleu, c'est alors un réservoir d'eau.",
@@ -353,6 +370,7 @@
     },
     {
         "situationImage": "/img/game/map/carte10.png",
+		"videoUrl": "",
         "situationRecord": "",
         "question": "Quelle type de végétation le randonneur rencontre-t-il ici ?",
 		"explication": "Des broussailles sont représentés par deux traits vert foncé en forme de v ; Les conifères ont eux une forme de sapin.",
