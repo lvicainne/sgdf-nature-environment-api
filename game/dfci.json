@@ -137,19 +137,94 @@
         "situationImage": "",
 		"videoUrl": "",
         "situationRecord": "",
-        "question": "Il est interdit d'avoir un briquet sur soi",
-		"explication": "L’article L.131-1 du Code Forestier interdit à toute personne autre que le propriétaire de terrain ou les personnes qu'il autorise, de porter ou d’allumer du feu sur ces terrains et jusqu’à une distance de 200 mètres des bois et forêts.",
+        "question": "Les agents assermentés de l'ONF :",
+		"explication": "Depuis 2014 les agents assermentés de l'ONF peuvent également porter une arme.",
         "possibleAnswers": [
         	{
-        		"response": "Dans toutes les forêts de France",
+        		"response": "Peuvent être armés et verbaliser",
         		"isCorrect": true
         	},
             {
-        		"response": "Dans les forêts du sud de la France",
+        		"response": "Ne peuvent rien faire",
         		"isCorrect": false
         	},
             {
-        		"response": "Dans les forêts des Bouches-du-Rhône en été",
+        		"response": "Ne sont pas armés mais peuvent verbaliser",
+        		"isCorrect": false
+        	}
+        ]
+    }
+	{
+        "situationImage": "",
+		"videoUrl": "",
+        "situationRecord": "",
+        "question": "Laquelle de ces actions fait pas partie des missions forestiers sapeurs :",
+		"explication": "",
+        "possibleAnswers": [
+        	{
+        		"response": "Armer les Canadairs",
+        		"isCorrect": true
+        	},
+            {
+        		"response": "Ouvrir des chemins d'accès au feu",
+        		"isCorrect": false
+        	},
+            {
+        		"response": "Intervenir sur les feux naissants",
+        		"isCorrect": false
+        	},
+            {
+        		"response": "Entretiennent le massif en hiver",
+        		"isCorrect": false
+        	}
+        ]
+    }
+	{
+        "situationImage": "",
+		"videoUrl": "",
+        "situationRecord": "",
+        "question": "Quel partenaire n'est pas associé à la couleur de ces véhicules :",
+		"explication": "",
+        "possibleAnswers": [
+        	{
+        		"response": "Commités Communaux Feux de Forêt = Blanc",
+        		"isCorrect": true
+        	},
+            {
+        		"response": "Forestiers Sapeurs = Jaune",
+        		"isCorrect": false
+        	},
+            {
+        		"response": "Sapeur Pompier = Rouge",
+        		"isCorrect": false
+        	},
+            {
+        		"response": "ONF = Vert",
+        		"isCorrect": false
+        	}
+        ]
+    }
+	{
+        "situationImage": "",
+		"videoUrl": "",
+        "situationRecord": "",
+        "question": "Laquelle de ces affirmations est vraie en été dans les Bouches-du-Rhône :",
+		"explication": "",
+        "possibleAnswers": [
+        	{
+        		"response": "Les travaux non urgent sont interdits en journée Orange",
+        		"isCorrect": true
+        	},
+            {
+        		"response": "L'accès au massif est autorisé seulement en journée Verte",
+        		"isCorrect": false
+        	},
+            {
+        		"response": "L'accès au massif est autorisé pour tous tout le temps en journée Jaune",
+        		"isCorrect": false
+        	},
+            {
+        		"response": "L'accès au massif est restreint seulement l'après-midi en Journée Rouge",
         		"isCorrect": false
         	}
         ]
