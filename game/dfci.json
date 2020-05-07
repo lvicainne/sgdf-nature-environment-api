@@ -23,7 +23,7 @@
         		"isCorrect": false
         	}
         ]
-    }
+    },
 	{
         "situationImage": "",
 		"videoUrl": "",
@@ -38,9 +38,9 @@
             {
         		"response": "Vrai",
         		"isCorrect": false
-        	},
+        	}
         ]
-    }
+    },
 	{
         "situationImage": "",
 		"videoUrl": "",
@@ -65,7 +65,7 @@
         		"isCorrect": false
         	}
         ]
-    }
+    },
 	{
         "situationImage": "",
 		"videoUrl": "",
@@ -90,7 +90,7 @@
         		"isCorrect": false
         	}
         ]
-    }
+    },
 	{
         "situationImage": "",
 		"videoUrl": "",
@@ -111,7 +111,7 @@
         		"isCorrect": false
         	}
         ]
-    }
+    },
 	{
         "situationImage": "",
 		"videoUrl": "",
@@ -132,7 +132,7 @@
         		"isCorrect": false
         	}
         ]
-    }
+    },
 	{
         "situationImage": "",
 		"videoUrl": "",
@@ -153,7 +153,7 @@
         		"isCorrect": false
         	}
         ]
-    }
+    },
 	{
         "situationImage": "",
 		"videoUrl": "",
@@ -178,7 +178,7 @@
         		"isCorrect": false
         	}
         ]
-    }
+    },
 	{
         "situationImage": "",
 		"videoUrl": "",
@@ -203,7 +203,7 @@
         		"isCorrect": false
         	}
         ]
-    }
+    },
 	{
         "situationImage": "",
 		"videoUrl": "",
@@ -227,6 +227,56 @@
         		"response": "L'accès au massif est restreint seulement l'après-midi en Journée Rouge",
         		"isCorrect": false
         	}
+        ]
+	},
+	{
+        "situationImage": "",
+		"videoUrl": "",
+        "situationRecord": "",
+        "question": "Quelles sont les dimensions d'un carré DFCI ?",
+		"explication": "",
+        "possibleAnswers": [
+        	{
+        		"response": "2x2 km",
+        		"isCorrect": true
+        	},
+            {
+        		"response": "2x2 m",
+        		"isCorrect": false
+        	},
+        	{
+        		"response": "1x1 km",
+        		"isCorrect": false
+        	},
+            {
+                "response": "1x1 m",
+        		"isCorrect": false
+            }
+        ]
+    },
+    {
+        "situationImage": "",
+		"videoUrl": "",
+        "situationRecord": "",
+        "question": "Un carré DFCI est composé de",
+		"explication": "",
+        "possibleAnswers": [
+        	{
+        		"response": "4 Secteurs",
+        		"isCorrect": false
+        	},
+            {
+        		"response": "5 Secteurs",
+        		"isCorrect": true
+        	},
+        	{
+        		"response": "4 Carrés",
+        		"isCorrect": false
+        	},
+            {
+                "response": "3 Carrés",
+        		"isCorrect": false
+            }
         ]
     }
 ]

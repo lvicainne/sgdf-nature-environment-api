@@ -3,56 +3,6 @@
         "situationImage": "",
 		"videoUrl": "",
         "situationRecord": "",
-        "question": "Quelles sont les dimensions d'un carré DFCI ?",
-		"explication": "",
-        "possibleAnswers": [
-        	{
-        		"response": "2x2 km",
-        		"isCorrect": true
-        	},
-            {
-        		"response": "2x2 m",
-        		"isCorrect": false
-        	},
-        	{
-        		"response": "1x1 km",
-        		"isCorrect": false
-        	},
-            {
-                "response": "1x1 m",
-        		"isCorrect": false
-            }
-        ]
-    },
-    {
-        "situationImage": "",
-		"videoUrl": "",
-        "situationRecord": "",
-        "question": "Un carré DFCI est composé de",
-		"explication": "",
-        "possibleAnswers": [
-        	{
-        		"response": "4 Secteurs",
-        		"isCorrect": false
-        	},
-            {
-        		"response": "5 Secteurs",
-        		"isCorrect": true
-        	},
-        	{
-        		"response": "4 Carrés",
-        		"isCorrect": false
-        	},
-            {
-                "response": "3 Carrés",
-        		"isCorrect": false
-            }
-        ]
-    },
-    {
-        "situationImage": "",
-		"videoUrl": "",
-        "situationRecord": "",
         "question": "Les catégories des pistes dépendent de",
 		"explication": "",
         "possibleAnswers": [
@@ -66,7 +16,7 @@
         	},
         	{
         		"response": "La couleur des barrières",
-        		"isCorrect": true
+        		"isCorrect": false
         	}
         ]
     },
@@ -126,23 +76,6 @@
             {
         		"response": "Faux",
         		"isCorrect": true
-        	}
-        ]
-    },
-    {
-        "situationImage": "",
-		"videoUrl": "",
-        "situationRecord": "",
-        "question": "Les coordonnées des carrés DFCI sont à dire en alphabet international",
-		"explication": "",
-        "possibleAnswers": [
-        	{
-        		"response": "Vrai",
-        		"isCorrect": true
-        	},
-            {
-        		"response": "Faux",
-        		"isCorrect": false
         	}
         ]
     },
