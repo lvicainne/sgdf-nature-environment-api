@@ -278,5 +278,344 @@
         		"isCorrect": false
             }
         ]
+    },
+    {
+        "situationImage": "",
+		"videoUrl": "",
+        "situationRecord": "",
+        "question": "Suite à un grand incendie, en quel année commence le dispositif estival NE ?",
+		"explication": "",
+        "possibleAnswers": [
+        	{
+        		"response": "1980",
+        		"isCorrect": true
+        	},
+            {
+        		"response": "1909",
+        		"isCorrect": false
+        	},
+        	{
+        		"response": "1939",
+        		"isCorrect": false
+        	},
+            {
+                "response": "2000",
+        		"isCorrect": false
+            }
+        ]
+    },
+    {
+        "situationImage": "",
+		"videoUrl": "",
+        "situationRecord": "",
+        "question": "Parmi ces proposition quelles sont les opérations à être mises en place par NE.",
+		"explication": "",
+        "possibleAnswers": [
+        	{
+        		"response": "Débroussaillage, nettoyage, surveillance, prévention, dissuasion",
+        		"isCorrect": true
+        	},
+            {
+        		"response": "Débroussaillage, nettoyage, reboisement, surveillance, prévention,
+intervention",
+        		"isCorrect": false
+        	},
+        	{
+        		"response": "Surveillance, prévention",
+        		"isCorrect": false
+        	},
+            {
+                "response": "Débroussaillage, nettoyage, reboisement",
+        		"isCorrect": false
+            }
+        ]
+    },
+    {
+        "situationImage": "",
+		"videoUrl": "",
+        "situationRecord": "",
+        "question": "Combien y a-t-il de niveaux sur l’échelle de risque dans la réglementation des
+massifs ?",
+		"explication": "Vert, Jaune, Orange, Rouge",
+        "possibleAnswers": [
+        	{
+        		"response": "4",
+        		"isCorrect": true
+        	},
+            {
+        		"response": "1",
+        		"isCorrect": false
+        	},
+        	{
+        		"response": "2",
+        		"isCorrect": false
+        	},
+            {
+                "response": "3",
+        		"isCorrect": false
+            }
+        ]
+    },
+    {
+        "situationImage": "",
+		"videoUrl": "",
+        "situationRecord": "",
+        "question": "En cas de niveau rouge, que doit signaler l’équipe de surveillance au PC lorsqu’elle se
+trouve à une barrière DFCI ?",
+		"explication": "",
+        "possibleAnswers": [
+        	{
+        		"response": "Tous les promeneurs (cyclistes et piétons)",
+        		"isCorrect": true
+        	},
+            {
+        		"response": "Uniquement les cyclistes",
+        		"isCorrect": false
+        	},
+        	{
+        		"response": "S’il fait beau… ou pas !",
+        		"isCorrect": false
+        	},
+            {
+                "response": "La présence des animaux et des arbres locaux",
+        		"isCorrect": false
+            }
+        ]
+    },
+    {
+        "situationImage": "",
+		"videoUrl": "",
+        "situationRecord": "",
+        "question": "En cas de niveau vert, jaune ou orange, que doit signaler la patrouille au PC
+lorsqu’elle se trouve sur un chemin DFCI ?",
+		"explication": "",
+        "possibleAnswers": [
+        	{
+        		"response": "Les cyclistes, les fumeurs, obstacle sur les pistes DFCI",
+        		"isCorrect": true
+        	},
+            {
+        		"response": "Tous les promeneurs (cyclistes et piétons)",
+        		"isCorrect": false
+        	},
+        	{
+        		"response": "S’il fait beau… ou pas !",
+        		"isCorrect": false
+        	},
+            {
+                "response": "La présence des animaux et des arbres locaux",
+        		"isCorrect": false
+            }
+        ]
+    },
+    {
+        "situationImage": "",
+		"videoUrl": "",
+        "situationRecord": "",
+        "question": "Que signifie PC ?",
+		"explication": "",
+        "possibleAnswers": [
+        	{
+        		"response": "Pionniers-Caravelles, of course",
+        		"isCorrect": true
+        	},
+            {
+        		"response": "Poste de Coordination",
+        		"isCorrect": false
+        	},
+        	{
+        		"response": "Poste de Commandement",
+        		"isCorrect": false
+        	},
+            {
+                "response": "Parti Communiste",
+        		"isCorrect": false
+            }
+        ]
+    },
+    {
+        "situationImage": "",
+		"videoUrl": "",
+        "situationRecord": "",
+        "question": "Que signifie DFCI ?",
+		"explication": "",
+        "possibleAnswers": [
+        	{
+        		"response": "Défense de la Forêt Contre les Incendies",
+        		"isCorrect": true
+        	},
+            {
+        		"response": "Défense de Faire des Conneries et des Inepties",
+        		"isCorrect": false
+        	},
+        	{
+        		"response": "Droit de Faire la Course avec des Insectes",
+        		"isCorrect": false
+        	},
+            {
+                "response": "Défense des Feux Contre les Inondations",
+        		"isCorrect": false
+            }
+        ]
+    },
+    {
+        "situationImage": "",
+		"videoUrl": "",
+        "situationRecord": "",
+        "question": "Parmi ces 4 causes d’incendie laquelle est la plus élevée ?",
+		"explication": "",
+        "possibleAnswers": [
+        	{
+        		"response": "Volontaires",
+        		"isCorrect": true
+        	},
+            {
+        		"response": "Particuliers (activité de loisir, mégots…)",
+        		"isCorrect": false
+        	},
+        	{
+        		"response": "Travaux d’entretien agricoles ou forestiers…",
+        		"isCorrect": false
+        	},
+            {
+                "response": "Accidentels (ligne électriques, chemin de fer, dépôts d’ordures, véhicules…)",
+        		"isCorrect": false
+            }
+        ]
+    },
+    {
+        "situationImage": "",
+		"videoUrl": "",
+        "situationRecord": "",
+        "question": "De quelle règle d’incendie parle-t-on dans les calanques ?",
+		"explication": "",
+        "possibleAnswers": [
+        	{
+        		"response": "La règle des 30 (température supérieurs à 30°C + pourcentage d’humidité
+inférieure à 30% + vent soufflant à plus de 30 km/h)",
+        		"isCorrect": true
+        	},
+            {
+        		"response": "La règles de 3",
+        		"isCorrect": false
+        	},
+        	{
+        		"response": "La règle des 20/80",
+        		"isCorrect": false
+        	},
+            {
+                "response": "La règle du jeu",
+        		"isCorrect": false
+            }
+        ]
+    },
+    {
+        "situationImage": "",
+		"videoUrl": "",
+        "situationRecord": "",
+        "question": "Parmi tous ces organismes, lequel n’est pas partenaire du dispositif NE ?",
+		"explication": "",
+        "possibleAnswers": [
+        	{
+        		"response": "La sécurité civile",
+        		"isCorrect": true
+        	},
+            {
+        		"response": "L’ONF (Office National des Forêts)",
+        		"isCorrect": false
+        	},
+        	{
+        		"response": "Les CCFF (Comités communaux Feux de Forêt)",
+        		"isCorrect": false
+        	},
+            {
+                "response": "La Gendarmerie nationale",
+        		"isCorrect": false
+            }
+        ]
+    },
+    {
+        "situationImage": "",
+		"videoUrl": "",
+        "situationRecord": "",
+        "question": "Par quoi sont représentées les pistes DFCI principales ?",
+		"explication": "",
+        "possibleAnswers": [
+        	{
+        		"response": "Des lignes rouges accompagnées du numéro de la piste",
+        		"isCorrect": true
+        	},
+            {
+        		"response": "Des points rouges accompagnés d'un numéro",
+        		"isCorrect": false
+        	},
+        	{
+        		"response": "Des lignes continues noires",
+        		"isCorrect": false
+        	}
+        ]
+    },
+    {
+        "situationImage": "",
+		"videoUrl": "",
+        "situationRecord": "",
+        "question": "Sauf fumée suspecte ou description promeneurs, toutes les 20 minutes :",
+		"explication": "",
+        "possibleAnswers": [
+        	{
+        		"response": "Le PC appele les vigies, Les patrouilles appellent le PC",
+        		"isCorrect": true
+        	},
+            {
+        		"response": "Le PC appele tous le monde",
+        		"isCorrect": false
+        	},
+        	{
+        		"response": "Les patrouilles et les vigies appellent le PC",
+        		"isCorrect": false
+        	}
+        ]
+    },
+    {
+        "situationImage": "",
+		"videoUrl": "",
+        "situationRecord": "",
+        "question": "Il est 19h05, heure moyenne de fin de mission",
+		"explication": "",
+        "possibleAnswers": [
+        	{
+        		"response": "Je décide de rentrer au camp",
+        		"isCorrect": false
+        	},
+            {
+        		"response": "Je demande au PC l'autorisation de rentrer",
+        		"isCorrect": false
+        	},
+        	{
+        		"response": "Je continue ma mission de surveillance",
+        		"isCorrect": true
+        	}
+        ]
+    },
+    {
+        "situationImage": "",
+		"videoUrl": "",
+        "situationRecord": "",
+        "question": "Le PC Luminy et la patrouille Valtrède passent un appel de routine. J'ai une fumée suspecte à déclarer :",
+		"explication": "",
+        "possibleAnswers": [
+        	{
+        		"response": "Je coupe la conversation",
+        		"isCorrect": false
+        	},
+            {
+        		"response": "J'appel le PC avec mon téléphone",
+        		"isCorrect": false
+        	},
+        	{
+        		"response": "J'attends la fin de la conversation pour passer mon appel",
+        		"isCorrect": true
+        	}
+        ]
     }
 ]
