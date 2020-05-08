@@ -83,7 +83,7 @@
         "situationImage": "img/game/map/carte1.PNG",
 		"videoUrl": "",
         "situationRecord": "",
-        "question": "Où est situer le nord sur la carte ci-dessus ?",
+        "question": "Où est situé le nord sur la carte ci-dessus ?",
 		"explication": "Le Nord d'un carte est définit par la rose des vents.",
         "possibleAnswers": [
         	{
