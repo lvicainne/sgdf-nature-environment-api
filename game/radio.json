@@ -1,10 +1,10 @@
 [
     {
         "situationImage": "",
-		"videoUrl": "",
+        "videoUrl": "",
         "situationRecord": "",
         "question": "En mission je mets la radio :",
-		"explication": "",
+        "explication": "",
         "possibleAnswers": [
         	{
         		"response": "Sur mon épaule",
@@ -22,21 +22,21 @@
     },
 	{
         "situationImage": "",
-		"videoUrl": "",
+        "videoUrl": "",
         "situationRecord": "",
         "question": "Si j’entends “PC Saint Julien de vigie Moulin”, c’est :",
-		"explication": "",
+        "explication": "",
         "possibleAnswers": [
         	{
-        		"response": "la vigie qui appelle le PC pour un signalement",
+        		"response": "La vigie qui appelle le PC pour un signalement",
         		"isCorrect": true
         	},
 		{
-        		"response": "un appel de routine du PC",
+        		"response": "Un appel de routine du PC",
         		"isCorrect": false
         	},
 		{
-        		"response": "un appel de la vigie qui réclame un réchaud",
+        		"response": "Un appel de la vigie qui réclame un réchaud",
         		"isCorrect": false
         	}
         ]
@@ -53,11 +53,11 @@
         		"isCorrect": true
         	},
 		{
-        		"response": "quelqu’un m’appelle, je décroche",
+        		"response": "Quelqu’un m’appelle, je décroche",
         		"isCorrect": false
         	},
 		{
-        		"response": "quelqu’un m’appelle en morse, je déchiffre.",
+        		"response": "Quelqu’un m’appelle en morse, je déchiffre.",
         		"isCorrect": false
         	}
         ]
@@ -74,7 +74,7 @@
         		"isCorrect": true
         	},
 		{
-        		"response": "Améli",
+        		"response": "Amélie",
         		"isCorrect": false
         	},
 		{
@@ -137,7 +137,7 @@
         		"isCorrect": false
         	},
 		{
-        		"response": "Non, c’est interdit!",
+        		"response": "Non, c’est interdit !",
         		"isCorrect": false
 		},
 		{
@@ -150,11 +150,11 @@
         "situationImage": "",
 		"videoUrl": "",
         "situationRecord": "",
-        "question": "Sur la radio, je peut parler de",
+        "question": "Sur la radio, je peux parler de",
 		"explication": "",
         "possibleAnswers": [
         	{
-        		"response": "La Mission",
+        		"response": "La mission",
         		"isCorrect": true
         	},
 		{
@@ -162,7 +162,7 @@
         		"isCorrect": false
         	},
 		{
-        		"response": "Des anecdote en de camps",
+        		"response": "Des anecdotes en de camps",
         		"isCorrect": false
         	}
         ]
@@ -175,19 +175,19 @@
 		"explication": "",
         "possibleAnswers": [
         	{
-        		"response": "je cris dans la radio",
+        		"response": "Je crie dans la radio",
         		"isCorrect": false
         	},
 		{
-        		"response": "je parle normalement en articulent",
+        		"response": "Je parle normalement en articulant",
         		"isCorrect": true
         	},
 		{
-        		"response": "je parle vite pour libérer le canal",
+        		"response": "Je parle vite pour libérer le canal",
         		"isCorrect": false
         	},
 		{
-        		"response": "comme sur mon téléphone",
+        		"response": "Comme sur mon téléphone",
         		"isCorrect": false
         	}
         ]
@@ -196,19 +196,19 @@
         "situationImage": "",
 		"videoUrl": "",
         "situationRecord": "",
-        "question": "Quand je part en mission...",
+        "question": "Quand je pars en mission...",
 		"explication": "",
         "possibleAnswers": [
         	{
-        		"response": "je test ma radio",
+        		"response": "Je test ma radio",
         		"isCorrect": true
         	},
 		{
-        		"response": "c’est du materiel pro ca marche",
+        		"response": "C’est du matériel Pro, ça marche",
         		"isCorrect": false
         	},
 		{
-        		"response": "on verra bien quand je vais l'utiliser",
+        		"response": "On verra bien quand je vais l'utiliser",
         		"isCorrect": false
         	}
         ]
@@ -217,19 +217,19 @@
         "situationImage": "img/game/radio/RadioMissions.jpg",
 		"videoUrl": "",
         "situationRecord": "",
-        "question": "Quelle bouton pour allumer et éteindre la radio?",
+        "question": "Quel est le bouton pour allumer et éteindre la radio ?",
 		"explication": "",
         "possibleAnswers": [
         	{
-        		"response": "rouge",
+        		"response": "Rouge",
         		"isCorrect": false
         	},
 		{
-        		"response": "jaune",
+        		"response": "Jaune",
         		"isCorrect": true
         	},
 		{
-        		"response": "bleu ",
+        		"response": "Bleu",
         		"isCorrect": false
         	}
         ]
@@ -238,19 +238,19 @@
         "situationImage": "img/game/radio/RadioMissions.jpg",
 		"videoUrl": "",
         "situationRecord": "",
-        "question": "quelle est le bouton pour parler",
+        "question": "Quel est le bouton pour parler ?",
 		"explication": "",
         "possibleAnswers": [
         	{
-        		"response": "rouge",
+        		"response": "Rouge",
         		"isCorrect": true
         	},
 		{
-        		"response": "jaune",
+        		"response": "Jaune",
         		"isCorrect": false
         	},
 		{
-        		"response": "bleu ",
+        		"response": "Bleu",
         		"isCorrect": false
         	}
         ]
@@ -259,19 +259,19 @@
         "situationImage": "img/game/radio/RadioMissions.jpg",
 		"videoUrl": "",
         "situationRecord": "",
-        "question": "comment je change de canal",
+        "question": "Comment je change de canal ?",
 		"explication": "",
         "possibleAnswers": [
         	{
-        		"response": "rouge",
+        		"response": "Rouge",
         		"isCorrect": false
         	},
 		{
-        		"response": "jaune",
+        		"response": "Jaune",
         		"isCorrect": false
         	},
 		{
-        		"response": "bleu ",
+        		"response": "Bleu",
         		"isCorrect": true
         	}
         ]
